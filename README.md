@@ -1,4 +1,6 @@
 #Digrama ER para o database de uma clinica#
+![Captura de Tela (360)](https://user-images.githubusercontent.com/58758617/185772949-5092af79-835a-4582-93a7-53bbaee92b41.png)
+
 
 Atividade 1
 Contexto
